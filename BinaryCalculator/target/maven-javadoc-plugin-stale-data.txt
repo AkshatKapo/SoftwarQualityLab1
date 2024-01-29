@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/target/classes;C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/target/test-classes;C:/Users/jul_o/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/jul_o/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/jul_o/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/src/test/java;C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/jul_o/Documents/GitHub/SOFE-3980_SoftwareQuality_REPOS/SOFE-3980U_Project_Group-C1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\classes = 1674862222622
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\test-classes = 1674862223133
+C:\Users\jul_o\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1673807820153
+C:\Users\jul_o\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1673807820113
+C:\Users\jul_o\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1674792992101
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\src\test\java = 1674687542040
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\generated-test-sources\test-annotations = 1674862222862
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\allclasses-frame.html = 1674862242626
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\allclasses-noframe.html = 1674862242626
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\constant-values.html = 1674862242524
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\deprecated-list.html = 1674862242616
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\help-doc.html = 1674862242646
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\index-all.html = 1674862242612
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\index.html = 1674862242636
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1674862242590
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\package-list = 1674862242484
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\script.js = 1674862242659
+C:\Users\jul_o\Documents\GitHub\SOFE-3980_SoftwareQuality_REPOS\SOFE-3980U_Project_Group-C1\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1674862242654
